@@ -1,0 +1,2 @@
+com.qdcode.cloud.framework.redis.config.QdcodeRedisAutoConfiguration
+com.qdcode.cloud.framework.redis.config.QdcodeCacheAutoConfiguration

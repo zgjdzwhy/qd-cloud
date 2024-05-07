@@ -1,0 +1,8 @@
+com.qdcode.cloud.framework.apilog.config.QdcodeApiLogAutoConfiguration
+com.qdcode.cloud.framework.jackson.config.QdcodeJacksonAutoConfiguration
+com.qdcode.cloud.framework.swagger.config.QdcodeSwaggerAutoConfiguration
+com.qdcode.cloud.framework.web.config.QdcodeWebAutoConfiguration
+com.qdcode.cloud.framework.apilog.config.QdcodeApiLogRpcAutoConfiguration
+com.qdcode.cloud.framework.banner.config.QdcodeBannerAutoConfiguration
+com.qdcode.cloud.framework.errorcode.config.QdcodeErrorCodeRpcAutoConfiguration
+com.qdcode.cloud.framework.errorcode.config.QdcodeErrorCodeAutoConfiguration

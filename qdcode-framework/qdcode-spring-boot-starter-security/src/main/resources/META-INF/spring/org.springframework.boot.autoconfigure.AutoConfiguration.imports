@@ -1,0 +1,5 @@
+com.qdcode.cloud.framework.security.config.QdcodeSecurityRpcAutoConfiguration
+com.qdcode.cloud.framework.security.config.QdcodeSecurityAutoConfiguration
+com.qdcode.cloud.framework.security.config.QdcodeWebSecurityConfigurerAdapter
+com.qdcode.cloud.framework.operatelog.config.QdcodeOperateLogV2Configuration
+com.qdcode.cloud.framework.operatelog.config.QdcodeOperateLogV2RpcAutoConfiguration

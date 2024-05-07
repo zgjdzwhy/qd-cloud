@@ -1,0 +1,3 @@
+com.qdcode.cloud.framework.mq.redis.config.QdcodeRedisMQProducerAutoConfiguration
+com.qdcode.cloud.framework.mq.redis.config.QdcodeRedisMQConsumerAutoConfiguration
+com.qdcode.cloud.framework.mq.rabbitmq.config.QdcodeRabbitMQAutoConfiguration

@@ -1,0 +1,2 @@
+com.qdcode.cloud.framework.quartz.config.QdcodeXxlJobAutoConfiguration
+com.qdcode.cloud.framework.quartz.config.QdcodeAsyncAutoConfiguration

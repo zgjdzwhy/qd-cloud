@@ -1,0 +1,2 @@
+com.qdcode.cloud.framework.idempotent.config.QdcodeIdempotentConfiguration
+com.qdcode.cloud.framework.lock4j.config.QdcodeLock4jConfiguration

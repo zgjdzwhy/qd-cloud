@@ -1,0 +1,2 @@
+com.qdcode.cloud.framework.tenant.config.QdcodeTenantRpcAutoConfiguration
+com.qdcode.cloud.framework.tenant.config.QdcodeTenantAutoConfiguration

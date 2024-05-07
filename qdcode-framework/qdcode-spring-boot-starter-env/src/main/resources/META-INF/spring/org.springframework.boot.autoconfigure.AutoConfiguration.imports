@@ -1,0 +1,2 @@
+com.qdcode.cloud.framework.env.config.QdcodeEnvWebAutoConfiguration
+com.qdcode.cloud.framework.env.config.QdcodeEnvRpcAutoConfiguration
